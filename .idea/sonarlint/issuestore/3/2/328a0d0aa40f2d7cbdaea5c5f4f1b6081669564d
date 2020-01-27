@@ -1,0 +1,13 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±–…áøÿÿÿÿ8è‘¡­ù-
+ksquid:UnusedPrivateMethod":Remove this unused private "printCubeOfOddNumbers" method.(àà£ÿÿÿÿÿ8åí«­ù-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üäÿåûÿÿÿÿ
+hsquid:UnusedPrivateMethod"7Remove this unused private "printSquareNumbers" method.(ï£ŸÎÿÿÿÿÿ8è‘¡­ù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8°Û²­ù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8’© ­ù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Ò›±­ù-
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š£Óÿ
+Osquid:S1612",Replace this lambda with a method reference.(©•‹²ÿÿÿÿÿ8íµª­ù-

@@ -1,0 +1,17 @@
+
+Usquid:S1854"7Remove this useless assignment to local variable "sum".(¯éà8ÍŒùú-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üäÿåûÿÿÿÿ
+usquid:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(ÆĞ”ø8”Ä‹ùú-
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(Š£Óÿ8ŠÙ™®ù-
+Fsquid:S1604"(Make this anonymous inner class a lambda(ÆĞ”ø8”Ä‹ùú-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì àšüÿÿÿÿ8®×®ù-
+msquid:UnusedPrivateMethod "<Remove this unused private "squareNumbersAndFindSum" method.(ğßà½ûÿÿÿÿ8Å™‚ú-
+`squid:UnusedPrivateMethod("/Remove this unused private "addNumbers" method.(×®óÙûÿÿÿÿ8ñ«ï€ú-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çöê8ñ«ï€ú-
+Fsquid:S1481"(Remove this unused "sum" local variable.(¯éà8ÍŒùú-
+usquid:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(¯éà8–Ë²Ñú-
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(¿Ï§›8©óî®ù-
+hsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(µ‰É8÷İğ®ù-
+ksquid:UnusedPrivateMethod$":Remove this unused private "cubeNumbersAndFindSum" method.(Àìƒœùÿÿÿÿ8“ ‡ú-

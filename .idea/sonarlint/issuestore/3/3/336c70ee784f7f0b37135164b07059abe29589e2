@@ -1,0 +1,13 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ™À8¯í‚Ÿü-
+€squid:S4276"bRefactor this code to use the more specialised Functional Interface 'BiPredicate<Integer, String>'(±š8¼¹øü-
+qsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(±š8¼¹øü-
+vsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(İ†‚­ıÿÿÿÿ8¾Øîü-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üäÿåûÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8¯í‚Ÿü-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(²äĞ8‹ïü-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ìü™°úÿÿÿÿ8‹°úü-

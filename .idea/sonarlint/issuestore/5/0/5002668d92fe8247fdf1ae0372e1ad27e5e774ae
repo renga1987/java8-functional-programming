@@ -1,0 +1,13 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üäÿåûÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÎ¦ß8±¡ŠÑú-
+Jsquid:S1612",Replace this lambda with a method reference.(Ş¢ßŒ8ÉÑãÏú-
+\squid:UnusedPrivateMethod"0Remove this unused private "sortCourses" method.(¡ŸñÇ8½´ÜÏú-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í±¯ï8ïÙÛÏú-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(àî§œ8ÈŒÙÏú-
+hsquid:UnusedPrivateMethod"7Remove this unused private "sortCoursesReverse" method.(­Òã„ıÿÿÿÿ8ø»äÏú-
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š£Óÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äëøşÿÿÿÿ8½´ÜÏú-

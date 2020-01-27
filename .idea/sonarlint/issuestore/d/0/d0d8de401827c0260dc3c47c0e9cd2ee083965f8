@@ -1,0 +1,22 @@
+
+bsquid:UnusedPrivateMethod"1Remove this unused private "printCourses" method.(œû˜­øÿÿÿÿ8ëµö¬ù-
+Jsquid:S1612",Replace this lambda with a method reference.(›Åºî8×Óú¬ù-
+Osquid:S1612",Replace this lambda with a method reference.(ÆíÄÚüÿÿÿÿ8ôíï¬ù-
+nsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Ãú×¢úÿÿÿÿ8¥²ç¬ù-
+`squid:UnusedPrivateMethod'"4Remove this unused private "printOddNumbers" method.(Êì¼Ó8€—ğ¬ù-
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(›Åºî8Î—ò¬ù-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Äææ¬ù-
+Jsquid:S1612",Replace this lambda with a method reference.(›Åºî8Î—ò¬ù-
+csquid:UnusedPrivateMethod"7Remove this unused private "printSpringCourses" method.(ÃëŒã8²şõ¬ù-
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(Š£Óÿ
+asquid:UnusedPrivateMethod!"5Remove this unused private "printEvenNumbers" method.(ùßï×8¥²ç¬ù-
+Zsquid:UnusedPrivateMethod-")Remove this unused private "even" method.(ÚšµÜøÿÿÿÿ8¤ÎÚ¬ù-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆíÄÚüÿÿÿÿ8ôíï¬ù-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üäÿåûÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(›Åºî8ëŠú¬ù-
