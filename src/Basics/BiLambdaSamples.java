@@ -1,4 +1,4 @@
-package Samples;
+package Basics;
 
 import java.util.function.BiConsumer;
 import java.util.function.BiFunction;

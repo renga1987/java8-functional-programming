@@ -1,4 +1,4 @@
-package Samples;
+package Basics;
 
 import com.sun.tools.javac.util.List;
 

@@ -1,4 +1,4 @@
-package Samples;
+package Basics;
 
 import java.util.Random;
 import java.util.function.Supplier;
